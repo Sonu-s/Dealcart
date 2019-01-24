@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DealKart</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Rs">\u20B9</string>
+    <string name="d1"> \u2022 8 GB RAM | 128 GB ROM | \n
+    \u2022 13.97 cm (5.5 inch) Display\n
+    \u2022 20MP Rear Camera \n
+     \u2022 3300 mAh Battery</string>
+
+
+    <string name="price">12,040</string>
+    <string name="totalPrice">\u20B9 12,040 </string>
+</resources>
